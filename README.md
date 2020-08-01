@@ -3,7 +3,7 @@ A proof of concept crypto virus to spread user awareness about attacks and impli
 
 ![image](https://user-images.githubusercontent.com/3501170/79039950-3c465600-7c28-11ea-9390-df6594573abb.png)
 
-#Legal Disclaimer
+# Legal Disclaimer
 This project must not be used for illegal purposes or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.
 <B><I>
  - Performing any hack attempts or tests without written permission from the owner of the computer system is illegal.
