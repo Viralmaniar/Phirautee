@@ -3,8 +3,9 @@ A proof of concept crypto virus to spread user awareness about attacks and impli
 
 ![image](https://user-images.githubusercontent.com/3501170/79039950-3c465600-7c28-11ea-9390-df6594573abb.png)
 
-<B><I>This project must not be used for illegal purposes or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.
-
+#Legal Disclaimer
+This project must not be used for illegal purposes or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.
+<B><I>
  - Performing any hack attempts or tests without written permission from the owner of the computer system is illegal.
  - If you recently suffered a breach or targeted by a ransomware and found techniques or tools illustrated in this presentation similar, this neither incriminates my involvement in any way, nor implies any connection between myself and the attackers.
 - The tools and techniques remain universal and penetration testers and security consultants often uses them during engagements. 
