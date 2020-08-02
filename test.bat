@@ -1,2 +1,2 @@
 @ECHO OFF
-PowerShell.exe -NoProfile -Command "& {Start-Process}"
+PowerShell.exe -ep bypass -NoProfile -file "c:\encrypt\cert.ps1"
