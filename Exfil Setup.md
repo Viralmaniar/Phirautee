@@ -37,3 +37,10 @@ Step 8: Save your client ID and Secret. If you dont this can always be accessed 
 
 Step 9: Click on the gear icon and tick on the "Use your own OAuth credentials"
 ![image](https://user-images.githubusercontent.com/3501170/89716974-1c1b7d80-d9f5-11ea-84ad-85d5d567ebb1.png)
+
+Step 10: Authorize the https://www.googleapis.com/auth/drive API and then Click “Exchange authorization code for tokens”. This should give you 200 OK in the response. Make sure you save your refresh access token. We will need this in the Phirautee to upload large files to the throwaway Google account
+![image](https://user-images.githubusercontent.com/3501170/89717034-d7441680-d9f5-11ea-84e7-dfbb87bceda6.png)
+
+![image](https://user-images.githubusercontent.com/3501170/89717044-f478e500-d9f5-11ea-804a-87d00471e686.png)
+
+
