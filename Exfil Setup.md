@@ -18,6 +18,22 @@ Step 4: Locate the Google Drive related APIs in the AOI Library:
 
 ![image](https://user-images.githubusercontent.com/3501170/89417187-b075ae00-d771-11ea-9fb0-b501ec39364c.png)
 
-Step 5: Once located 
+Step 5: Once located enable the API. This would allow access to various operations via Google Drive.
 
-Step 6: 
+![image](https://user-images.githubusercontent.com/3501170/89716879-15403b00-d9f4-11ea-8d9a-76f1db90746c.png)
+
+Step 6: After enabling the API access click on the "create credentials" button.
+
+![image](https://user-images.githubusercontent.com/3501170/89716900-4caee780-d9f4-11ea-9f09-6d1e6cbe0083.png)
+
+Step 6: Now create OAuth Client ID Credentials
+
+![image](https://user-images.githubusercontent.com/3501170/89716918-7e27b300-d9f4-11ea-816d-71b2b9d8a97d.png)
+
+Step 7: Select Web Application as product type and configure the authorized redirect URI to https://developers.google.com/oauthplayground
+![image](https://user-images.githubusercontent.com/3501170/89716949-b7602300-d9f4-11ea-9958-d3341917d1d4.png)
+
+Step 8: Save your client ID and Secret. If you dont this can always be accessed from credentials in APIs & Services. Now browse to https://developers.google.com/oauthplayground
+
+Step 9: Click on the gear icon and tick on the "Use your own OAuth credentials"
+![image](https://user-images.githubusercontent.com/3501170/89716974-1c1b7d80-d9f5-11ea-84ad-85d5d567ebb1.png)
