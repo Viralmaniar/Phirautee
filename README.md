@@ -27,6 +27,7 @@ This project must not be used for illegal purposes or for hacking into system wh
  - Performing any hack attempts or tests without written permission from the owner of the computer system is illegal.
  - If you recently suffered a breach or targeted by a ransomware and found techniques or tools illustrated in this presentation similar, this neither incriminates my involvement in any way, nor implies any connection between myself and the attackers.
 - The tools and techniques remain universal and penetration testers and security consultants often uses them during engagements. 
+- Phirautee project must not be used for illegal purposes. It is strictly for educational and research purposes and for people to experiment with.
 </I></B>
 
 # DEF CON 28 Safe Mode
