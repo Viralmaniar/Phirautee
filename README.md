@@ -8,9 +8,11 @@ Phirautee is a Living off the Land (LotL) ransomware which means it utilises leg
 # Screenshots
 
 - Ransom pop-up window: <br>
+
 ![image](https://user-images.githubusercontent.com/3501170/89846875-bf22f180-dbc5-11ea-9ed0-7c557022a42c.png)
 
 - Desktop background upon successful infection:<br>
+
 ![image](https://user-images.githubusercontent.com/3501170/89847011-2345b580-dbc6-11ea-9738-bf3651de6f11.png)
 
 # DEF CON Presentation
